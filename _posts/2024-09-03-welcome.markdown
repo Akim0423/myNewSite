@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2024-09-03 15:41:05 -0500
 categories: jekyll update
 ---
-Esta pagina es mi primera version de mi `Portal`..
+Hola, esta pagina es mi primera version de mi `Portal`
 
 Jekyll also offers powerful support for code snippets:
 
