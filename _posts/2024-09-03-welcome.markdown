@@ -11,7 +11,7 @@ Jekyll also offers powerful support for code snippets:
 {% highlight ruby %}
 
 Esta seccion es un bloque 
-resaltado
+resaltado en mi post
 
 {% endhighlight %}
 
